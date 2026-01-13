@@ -1,4 +1,4 @@
-# Simple Unix Shell in C
+# Unix Shell in C
 
 ## Overview
 This project is a **Simple Unix-like Shell** implemented in C using low-level Unix system calls.  
